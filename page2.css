@@ -1,0 +1,41 @@
+*{
+    background-color:  #028a9c;
+}
+
+body{
+    padding: 0px;
+    margin: 0%;
+}
+
+h1{
+    display: flex;
+    justify-content: left;
+    color: rgb(200, 50, 100);
+    font-size: 40px;
+    align-content: center;
+    font-family:'Times New Roman', Times, serif;
+    background-color: #028a9c;
+}
+
+h2{
+    display: flex;
+    justify-content: left;
+    color:white;
+    align-content: center;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size:15px;
+    background-color: #028a9c;
+}
+
+button{
+    width: 200px;
+    height: 100px;
+    margin: 10px;
+    color:#221E22;
+    font-family: 'Courier New', Courier, monospace;
+    text-decoration: rgb(247, 0, 0);
+    background-color: #eca72c;
+    border-radius: 10px;
+    
+
+}
